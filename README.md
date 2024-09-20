@@ -1,2 +1,2 @@
-# projeto_dart
- Projeto em dart para relembrar a linguagem
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
