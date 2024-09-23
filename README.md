@@ -11,4 +11,4 @@ Alguns dos assuntos abordados são:
 - Declaração e manipulação de listas.
 - Uso de funções e funções recursivas.
 ***
-Esses projetos e exercicios estão localizados na pasta bin divididos em módulos e os projetos principais, todos  foram feitos seguindo o curso da @alura "Dart: trabalhando com a sintaxe e configuração de projeto".
+Esses projetos e exercicios estão localizados na pasta bin, divididos em módulos e projetos principais, todos foram feitos seguindo o curso da @alura "Dart: trabalhando com a sintaxe e configuração de projeto".
