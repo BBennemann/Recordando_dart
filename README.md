@@ -1,5 +1,4 @@
 # Projeto em dart
-***
 Pequenos **projetos e exercicios** em dart para relembrar a linguagem antes de começar a aprender __flutter__ 
 ***
 Alguns dos assuntos abordados são:
